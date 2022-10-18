@@ -3,9 +3,10 @@
 This repository contains the code for our paper titled [Dynamic Task Software Caching-Assisted Computation Offloading for Multi-Access Edge Computing](https://ieeexplore.ieee.org/abstract/document/9862981).
 
 
-#Citation:
-Please use the following BibTeX citation if you use this respository in your work:
+# Citation:
 
+Please use the following BibTeX citation if you use this respository in your work:
+```
 @ARTICLE{9862981,
   author={Chen, Zhixiong and Yi, Wenqiang and Alam, Atm S. and Nallanathan, Arumugam},
   journal={IEEE Transactions on Communications}, 
