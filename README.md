@@ -1,6 +1,10 @@
 # Pytorch implement of "Dynamic Task Software Caching-Assisted Computation Offloading for Multiaccess Edge Computing".
 
-Citation:
+This repository contains the code for our paper titled [Dynamic Task Software Caching-Assisted Computation Offloading for Multi-Access Edge Computing](https://ieeexplore.ieee.org/abstract/document/9862981)
+
+"Dynamic Task Software Caching-Assisted Computation Offloading for Multiaccess Edge Computing"
+
+#Citation:
 Please use the following BibTeX citation if you use this respository in your work:
 
 @ARTICLE{9862981,
